@@ -1,2 +1,5 @@
 # P1
-This is where the tasks for P1 will be held
+Welcome to P1!
+No matter if you are a new 2910 programming student, following along from a different team, or leveraging this to learn to program, I'm excited to have you here. 
+
+Every branch is protected so no one can accidentally mess up the course materials for others. 
